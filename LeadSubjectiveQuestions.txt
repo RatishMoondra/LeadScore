@@ -1,3 +1,5 @@
+Note: We uploaded the PDF file and Word File; But we faced issues while downloadding this back. Hence I neded to upload the Q&A in text format.
+
 1. Which are the top three variables in your model which contribute most towards the 
 probability of a lead getting converted?
 
