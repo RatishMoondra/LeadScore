@@ -11,7 +11,7 @@ To develop a logistic regression model that assigns a lead score between 0 and 1
 To be able to adjust the model to any future requirements or problems presented by the company.
 To include these adjustments in the final presentation where recommendations will be made to the company.
 
-Details of files given
+Details of files given:  
 Leadscore_final Python Notebook : The python file showing coding and data analysis  
 LeadSubjectiveQuestions.pdf : Some subjective questions answered (Issues downloading the PDF files)  
 LeadSubjectiveQuestions.txt : Some subjective questions answered  
