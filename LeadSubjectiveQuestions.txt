@@ -1,0 +1,43 @@
+1. Which are the top three variables in your model which contribute most towards the 
+probability of a lead getting converted?
+
+Ans: This are the top three variables that contributes towards lead getting converted are:
+• Total time spent on the website
+• Lead source with elements google
+• Total Visits
+-----------------------------------------------------------------------------------------------------------
+2. What are the top 3 categorical/dummy variables in the model which should be focused 
+the most on in order to increase the probability of lead conversion?
+
+Ans: Top 3 dummy/categorical variables to increase the probability of lead conversion are:
+• Lead source with elements organic search
+• Lead source with elements google
+• Lead source with elements direct traffic
+-----------------------------------------------------------------------------------------------------------
+3. X Education has a period of 2 months every year during which they hire some interns. 
+The sales team, in particular, has around 10 interns allotted to them. So during this 
+phase, they wish to make the lead conversion more aggressive. So they want almost all 
+of the potential leads (i.e. the customers who have been predicted as 1 by the model) to 
+be converted and hence, want to make phone calls to as much of such people as 
+possible. Suggest a good strategy they should employ at this stage.
+
+Ans: The call should be made if it follows the below condition:
+• They are working professional
+• They are coming back to website repeatedly
+• Their last is through SMS or EMAIL
+• They spend a lot of time in the website and this can be done by providing free 
+introductory class or sample class to keep the website interesting and increase 
+stickiness of the website.
+-----------------------------------------------------------------------------------------------------------
+4. Similarly, at times, the company reaches its target for a quarter before the deadline. 
+During this time, the company wants the sales team to focus on some new work as well. 
+So during this time, the company’s aim is to not make phone calls unless it’s extremely 
+necessary, i.e. they want to minimize the rate of useless phone calls. Suggest a strategy 
+they should employ at this stage.
+
+Ans: The X Education can opt for automated email and SMS as we have seen through our 
+analysis that these two sources is the highest as last activity of the customer. So, this way 
+sales team will not be engaged in send unnecessary mails and SMS to the customer. And 
+when leads are generated as hot only those calls can be made by the sales team this will 
+minimize their sales activity and focus on new work.
+-----------------------------------------------------------------------------------------------------------
