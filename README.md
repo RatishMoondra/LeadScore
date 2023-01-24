@@ -12,15 +12,14 @@ To be able to adjust the model to any future requirements or problems presented 
 To include these adjustments in the final presentation where recommendations will be made to the company.
 
 Details of files given
-Leadscore_final Python Notebook : The python file showing coding and data analysis
-LeadSubjectiveQuestions.pdf : Some subjective questions answered (Issues downloading the PDF files)
-LeadSubjectiveQuestions.txt : Some subjective questions answered
-Leads.csv : Data worked on
-Leads Data Dictionary.xlsx : Data Dictionary
-Lead Score PPT : Summary of the PPT in PDF format
+Leadscore_final Python Notebook : The python file showing coding and data analysis  
+LeadSubjectiveQuestions.pdf : Some subjective questions answered (Issues downloading the PDF files)  
+LeadSubjectiveQuestions.txt : Some subjective questions answered  
+Leads.csv : Data worked on  
+Leads Data Dictionary.xlsx : Data Dictionary  
+Lead Score PPT : Summary of the PPT in PDF format  
 
-
-Authors
-Ratish Moondra
-Rajdeep Das
-Saniya Javed Shaikh
+Authors  
+Ratish Moondra  
+Rajdeep Das  
+Saniya Javed Shaikh  
